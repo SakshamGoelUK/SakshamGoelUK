@@ -1,6 +1,8 @@
-![Alt Text](https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif)
-[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshamGoelUK&show_icons=true&theme=radical)](https://github.com/sakshamgoeluk/github-readme-stats)
+# Hi,I am Saksham!
+![Saksham Goel](https://user-images.githubusercontent.com/93056253/144731430-554c9e81-356f-4acf-ab31-02d1db91330b.gif)
 Hi,My name is Saksham Goel and I am a first year Computer Science Student at The University of Manchester.I am currently devoting my time learning python and full stack web development.
+
+
 
 <!---
 SakshamGoelUK/SakshamGoelUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
